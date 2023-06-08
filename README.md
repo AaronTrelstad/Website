@@ -1,1 +1,1 @@
-# Website
+I am still working on making the layout more responsive ecspecially for smaller devices. I also added a Spinning Cube animation with react three/fiber but that prevented me from deploying the website so I had to remove it.
