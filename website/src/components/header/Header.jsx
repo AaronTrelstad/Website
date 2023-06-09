@@ -2,7 +2,7 @@ import React from 'react'
 import './header.css'
 import RES from './Res'
 import HeaderSocials from './HeaderSocials'
-{/*import SpinningCube from '../cube/cube'*/}
+import SpinningCube from '../cube/cube'
 
 
 const Header = () => {
@@ -14,11 +14,11 @@ const Header = () => {
         <h5 className="text-light">Student</h5>
         <RES />
         <HeaderSocials />
-        {/*
+        
         <div>
           <SpinningCube />
         </div>
-        */}
+        
         <a href="#about" className='scrollDown'>Scroll Down</a>
       </div>
     </header>
