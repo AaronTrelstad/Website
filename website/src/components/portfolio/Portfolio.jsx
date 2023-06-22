@@ -13,8 +13,8 @@ const Portfolio = () => {
           <ul className='serviceList'>
             <li>
               <div>
-              <h4>Innovate 120 - UX/UI Design</h4>
-              <small className='text-light'>Worked with Fortune 500 compaines</small>
+              <h4>Innovate 120 - UX Intern - June 2023</h4>
+              <small className='text-light'>Worked with UpHealth team, focusing on improving addiction management using AI to analyze clinical, biometric and other contextual data.</small>
               </div>
             </li>
           </ul>
